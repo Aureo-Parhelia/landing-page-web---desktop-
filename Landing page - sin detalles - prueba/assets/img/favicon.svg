@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Munay">
+  <rect width="64" height="64" rx="15" fill="#064E3B"/>
+  <path d="M32 12c11.5 0 20 7.2 20 18.6C52 43.5 42 51 32 58 22 51 12 43.5 12 30.6 12 19.2 20.5 12 32 12Z" fill="#34D399"/>
+  <path d="M32 47V25M32 36c4.4-1.4 7.2-4.2 8.6-8.4M32 40.5c-4.4-1.4-7.2-4.2-8.6-8.4" fill="none" stroke="#064E3B" stroke-width="3.5" stroke-linecap="round"/>
+</svg>
